@@ -1,9 +1,6 @@
 ﻿namespace CA6_MSTest
 
 {
-    using Microsoft.VisualStudio.TestPlatform.TestHost;
-    using Microsoft.VisualStudio.TestTools.UnitTesting;
-
     [TestClass]
     public sealed class Test1
     {
